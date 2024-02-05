@@ -1,4 +1,4 @@
-# Python Data Handling Guide 🐍📊
+# Python Data Handling Guide 🐍
 
 Welcome to the Python Data Handling Guide repository! This guide covers fundamental concepts and operations related to variables, data types, expressions, operators, data structures, and advanced data types in Python. Whether you're a beginner or looking to refresh your knowledge, this guide has you covered.
 
